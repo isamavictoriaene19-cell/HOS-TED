@@ -1,0 +1,288 @@
+{
+  "orders": [],
+  "customers": [
+    {
+      "id": "CUST-4664",
+      "name": "Kiky",
+      "email": "isamavictoriaene19@gmail.com",
+      "phone": "07014723288",
+      "passwordHash": "Victoria811822$",
+      "isFounder": false,
+      "roleLabel": "Registered HOS|TED Client",
+      "preferredStyle": "Ankara Gowns & Bubu Couture",
+      "preferredSize": "UK 12 (Medium/Large)",
+      "favoriteColors": "Imperial Gold & Emerald Green",
+      "onboardingCompleted": true,
+      "joinedAt": "2026-10-03T22:02:39.608Z",
+      "lastLoginAt": "2026-10-03T22:02:39.608Z",
+      "totalOrders": 0,
+      "totalSpentNgn": 0,
+      "measurements": {},
+      "delivery": {
+        "state": "FCT - Abuja",
+        "city": "Ado, New karu",
+        "address": "Around Esu palace",
+        "method": "Doorstep Courier"
+      },
+      "notes": "Signed up via HOS|TED Onboarding. Preferred Style: Ankara Gowns & Bubu Couture, Size: UK 12 (Medium/Large), Colors: Imperial Gold & Emerald Green.",
+      "chatHistory": []
+    },
+    {
+      "id": "FOUNDER-TI-001",
+      "name": "Theresa Isama",
+      "phone": "09073784461",
+      "email": "isamatheresa12@gmail.com",
+      "passwordHash": "Kompanu12*",
+      "isFounder": true,
+      "roleLabel": "Founder & Owner of HOS|TED",
+      "preferredStyle": "Regal Silk Bubu & Sculpted Couture Ankara",
+      "preferredSize": "Bespoke Director Fit",
+      "favoriteColors": "Imperial Gold, Obsidian & Emerald",
+      "onboardingCompleted": true,
+      "joinedAt": "2026-10-03T21:44:04.869Z",
+      "lastLoginAt": "2026-10-03T21:44:04.869Z",
+      "totalOrders": 0,
+      "totalSpentNgn": 0,
+      "measurements": {},
+      "delivery": {
+        "state": "Lagos",
+        "city": "Victoria Island",
+        "address": "HOS|TED Flagship Executive Atelier",
+        "method": "Atelier Pickup"
+      },
+      "notes": "Visionary Founder, Owner & Creative Director of HOS|TED (HOS|TED Hosting Nations).",
+      "chatHistory": []
+    }
+  ],
+  "products": [
+    {
+      "id": "ha-01",
+      "name": "Imperial Gold Royal Bubu Gown",
+      "category": "bubu_gowns",
+      "categoryLabel": "Bubu Gowns",
+      "description": "Majestic silk jacquard boubou trimmed with intricate gold thread embroidery and high neck collar. Comes with an optional matching structured turban headwrap.",
+      "priceNgn": 0,
+      "priceUsd": 0,
+      "imageUrl": "/src/assets/images/collection_bubu_gold_1791027086919.jpg",
+      "features": [
+        "Luxury Silk Jacquard",
+        "Hand-stitched Gold Cording",
+        "Floor-length Flow",
+        "Matching Turban Available"
+      ],
+      "fabric": "Premium Gold Damask Silk & Jacquard",
+      "isPopular": true,
+      "isNew": true,
+      "leadTime": "",
+      "stockCount": 0,
+      "active": true
+    },
+    {
+      "id": "ha-02",
+      "name": "Peacock Sovereign Ankara Mermaid Gown",
+      "category": "ankara_gowns",
+      "categoryLabel": "Ankara Gowns",
+      "description": "Sculpted corseted evening gown marrying deep emerald crepe with vibrant pleated Ankara fan shoulder accents and a contouring mermaid hem.",
+      "priceNgn": 0,
+      "priceUsd": 0,
+      "imageUrl": "/src/assets/images/collection_ankara_gown_1791027100541.jpg",
+      "features": [
+        "Built-in Boned Corset",
+        "Dramatic Ankara Fan Shoulders",
+        "Fitted Mermaid Silhouette",
+        "Concealed Back Zipper"
+      ],
+      "fabric": "Authentic 100% Cotton Ankara Wax & Heavy Duchess Satin",
+      "isPopular": true,
+      "leadTime": "",
+      "stockCount": 0,
+      "active": true
+    },
+    {
+      "id": "ha-03",
+      "name": "Aura Puff-Sleeve Peplum Blouse & Trouser Set",
+      "category": "everyday",
+      "categoryLabel": "Everyday Wears",
+      "description": "Contemporary champagne puff-sleeve textured blouse with cinched waist and tailored crepe cigarette trousers. Effortlessly versatile for office to evening dinners.",
+      "priceNgn": 0,
+      "priceUsd": 0,
+      "imageUrl": "/src/assets/images/collection_chic_casual_1791027114692.jpg",
+      "features": [
+        "Voluminous Statement Sleeves",
+        "Elastic Smocked Midriff",
+        "High-waisted Tailored Trousers",
+        "Breathable All-day Comfort"
+      ],
+      "fabric": "Crinkled Cotton Chiffon & Stretch Italian Crepe",
+      "isPopular": false,
+      "isNew": true,
+      "leadTime": "",
+      "stockCount": 0,
+      "active": true
+    },
+    {
+      "id": "ha-04",
+      "name": "Monochrome Heritage Ankara Couple Ensemble",
+      "category": "bespoke",
+      "categoryLabel": "Bespoke Sets",
+      "description": "Coordinated modern African luxury attire featuring a tailored women’s kimono shift and matching men’s short-sleeve shirt with patterned trousers in geometric monochrome African print.",
+      "priceNgn": 0,
+      "priceUsd": 0,
+      "imageUrl": "/src/assets/images/collection_ankara_couple_1791027130621.jpg",
+      "features": [
+        "His & Hers Coordinated Pattern",
+        "Modern Minimalist Cut",
+        "Pre-shrunk Premium Cotton",
+        "Custom Sizing Included"
+      ],
+      "fabric": "100% Premium African Wax Cotton",
+      "isPopular": true,
+      "leadTime": "",
+      "stockCount": 0,
+      "active": true
+    },
+    {
+      "id": "ha-05",
+      "name": "Classic Empress Skirt & Peplum Blouse",
+      "category": "skirt_blouse",
+      "categoryLabel": "Skirt & Blouse",
+      "description": "Exquisite tailored Ankara two-piece featuring a sculpted peplum waist with Queen Anne neckline and a high-waisted pencil skirt with discreet center-back vent.",
+      "priceNgn": 0,
+      "priceUsd": 0,
+      "imageUrl": "/src/assets/images/collection_ankara_gown_1791027100541.jpg",
+      "features": [
+        "Precision Peplum Fit",
+        "Flattering Waist Cinch",
+        "Reinforced Hemlines",
+        "Lined with Soft Satin"
+      ],
+      "fabric": "Grade-A African Wax Print",
+      "isPopular": false,
+      "leadTime": "",
+      "stockCount": 0,
+      "active": true
+    },
+    {
+      "id": "ha-06",
+      "name": "Elysian Sunset Kimono & Casual Co-ord",
+      "category": "chic_casual",
+      "categoryLabel": "Chic Casual Outfits",
+      "description": "Relaxed flow kimono cardigan with matching tailored shorts in vibrant warm terracotta and citrus Ankara geometric prints. Perfect for weekends, resort stays, and casual dates.",
+      "priceNgn": 0,
+      "priceUsd": 0,
+      "imageUrl": "/src/assets/images/collection_chic_casual_1791027114692.jpg",
+      "features": [
+        "Flowing Kimono Silhouette",
+        "Deep Functional Pockets",
+        "Drawstring Elasticated Waist",
+        "Lightweight & Cool"
+      ],
+      "fabric": "Lightweight Breathable Ankara Cotton",
+      "isPopular": true,
+      "leadTime": "",
+      "stockCount": 0,
+      "active": true
+    }
+  ],
+  "appointments": [],
+  "payments": [],
+  "inventory": [],
+  "tasks": [],
+  "notifications": [
+    {
+      "id": "NOTIF-1791064959614",
+      "title": "New User Signed Up (Kiky)",
+      "message": "Kiky (isamavictoriaene19@gmail.com) completed HOS|TED onboarding — Style: Ankara Gowns & Bubu Couture, Size: UK 12 (Medium/Large), State: FCT - Abuja.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-10-03T22:02:39.608Z"
+    }
+  ],
+  "campaigns": [],
+  "websiteSettings": {
+    "brandName": "HOS|TED",
+    "founderName": "Theresa Isama",
+    "founderRole": "Founder & Creative Director, HOS|TED",
+    "founderImageUrl": "/src/assets/images/tessy_avatar_1791027072291.jpg",
+    "founderQuote": "Every garment we craft at HOS|TED is designed to host nations—uniting African heritage with effortless modern confidence.",
+    "founderBioParagraph1": "Theresa Isama is the visionary Founder and Creative Director behind HOS|TED (HOS|TED Hosting Nations). With a deep passion for contemporary African fashion and precision tailoring, she established HOS|TED to deliver comfort, style, and confidence for every occasion.",
+    "founderBioParagraph2": "From regal silk Bubu gowns and sculpted Ankara evening pieces to chic everyday wear delivered nationwide, Theresa Isama leads every collection with uncompromising attention to fit, fabric quality, and timeless elegance.",
+    "slogan": "HOS|TED Hosting Nations",
+    "announcementText": "HOS|TED — Hosting Nations • Nationwide Delivery Available • Consult Tessy Ai",
+    "heroTitle": "Crafted for Comfort, Style & Confidence.",
+    "heroHighlightText": "Comfort, Style",
+    "heroSubtitle": "Specializing in elegant everyday wear and beautifully tailored Ankara pieces, crafted to deliver comfort, style, and confidence for every occasion.",
+    "whatsappNumber": "09073784461",
+    "whatsappFormatted": "+234 907 378 4461",
+    "tiktokHandle": "theresaisama",
+    "instagramHandle": "Tessy Isima",
+    "acceptingCustomOrders": true,
+    "standardLeadTime": "",
+    "nationwideDeliveryText": "Nationwide Delivery Across All 36 States, FCT Abuja & International",
+    "themeColor": "obsidian",
+    "accentColor": "amber",
+    "showAnnouncementBar": true,
+    "showFlierSection": true,
+    "showBespokeSection": true,
+    "showStorySection": true,
+    "showFounderSection": true,
+    "customBannerMessage": "",
+    "paymentBankName": "OPay / Moniepoint / Direct Bank Transfer",
+    "paymentAccountName": "Theresa Isama (HOS|TED)",
+    "paymentAccountNumber": "9073784461",
+    "paymentInstructions": "Transfer the total order amount for your selected items, then click \"Request Order Status on WhatsApp\" below to send your order details and specific outfit image for instant HOS|TED payment confirmation."
+  },
+  "improvements": [],
+  "auditLogs": [
+    {
+      "id": "LOG-1791066700378-44",
+      "actor": "Kiky",
+      "role": "Customer",
+      "action": "UPDATE_USER_PROFILE",
+      "target": "CUST-4664",
+      "details": "Updated profile preferences for Kiky.",
+      "verified": true,
+      "timestamp": "2026-10-03T22:31:40.378Z"
+    },
+    {
+      "id": "LOG-1791065648231-63",
+      "actor": "Theresa Isama",
+      "role": "Owner / Creative Director",
+      "action": "UPDATE_WEBSITE_SETTINGS",
+      "target": "Storefront Design",
+      "details": "Updated live HOS|TED website design, Founder image & settings.",
+      "verified": true,
+      "timestamp": "2026-10-03T22:14:08.231Z"
+    },
+    {
+      "id": "LOG-1791065046048-97",
+      "actor": "Kiky",
+      "role": "Customer",
+      "action": "UPDATE_USER_PROFILE",
+      "target": "CUST-4664",
+      "details": "Updated profile preferences for Kiky.",
+      "verified": true,
+      "timestamp": "2026-10-03T22:04:06.048Z"
+    },
+    {
+      "id": "LOG-1791064959614-93",
+      "actor": "Kiky",
+      "role": "Customer",
+      "action": "USER_SIGNUP_ONBOARDING",
+      "target": "CUST-4664",
+      "details": "New user registered & onboarded (isamavictoriaene19@gmail.com, 07014723288) — Style: Ankara Gowns & Bubu Couture, Size: UK 12 (Medium/Large)",
+      "verified": true,
+      "timestamp": "2026-10-03T22:02:39.614Z"
+    },
+    {
+      "id": "LOG-1791061417867",
+      "actor": "System",
+      "role": "Automated",
+      "action": "SYSTEM_READY",
+      "target": "HOS|TED Live Store",
+      "details": "Initialized real-time HOS|TED database with zero fictional records.",
+      "verified": true,
+      "timestamp": "2026-10-03T21:03:37.867Z"
+    }
+  ]
+}

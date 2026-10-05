@@ -1,0 +1,6 @@
+{
+  "name": "HOS|TED — Hosting Nations",
+  "description": "HOS|TED official atelier featuring elegant everyday wear, custom tailored Ankara pieces, Bubu gowns, and Tessy Ai.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
